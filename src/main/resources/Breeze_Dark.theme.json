@@ -53,7 +53,7 @@
       "infoForeground": "alternateGray",
       "warningForeground": "bewareOrange",
       "errorForeground": "iconRed",
-      "selectionBackground": "fixedHoverBlueDark",
+      "selectionBackground": "burntCharcoal",
       "selectionInactiveBackground": "fixedHoverBlueDark",
       "selectionBackgroundInactive": "fixedHoverBlueDark",
       "selectionForeground": "paperWhite",
