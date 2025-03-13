@@ -53,7 +53,7 @@
       "infoForeground": "alternateGray",
       "warningForeground": "bewareOrange",
       "errorForeground": "iconRed",
-      "selectionBackground": "plasmaBlue",
+      "selectionBackground": "fixedHoverBlueDark",
       "selectionInactiveBackground": "fixedHoverBlueDark",
       "selectionBackgroundInactive": "fixedHoverBlueDark",
       "selectionForeground": "paperWhite",
@@ -194,7 +194,6 @@
       "passedColor": "verdantGreen"
     },
     "Popup": {
-      "selectionBackground": "iconRed",
       "Header.activeBackground": "charcoalGray",
       "Header.inactiveBackground": "darkerCharcoalGray",
       "Toolbar.background": "charcoalGray",
