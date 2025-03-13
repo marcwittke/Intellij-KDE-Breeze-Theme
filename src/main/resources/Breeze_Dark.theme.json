@@ -194,6 +194,7 @@
       "passedColor": "verdantGreen"
     },
     "Popup": {
+      "selectionBackground": "iconRed",
       "Header.activeBackground": "charcoalGray",
       "Header.inactiveBackground": "darkerCharcoalGray",
       "Toolbar.background": "charcoalGray",
